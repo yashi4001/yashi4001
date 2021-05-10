@@ -19,7 +19,7 @@
  
  <h2>Connect with me on: </h2>
  <div style="display:flex">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="height:30px, width:40px" />
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
      <a href="https://www.hackerrank.com/yashi_shukla2010 ><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" style="height:30, width:40" /></a>
  </div>
 
