@@ -8,10 +8,12 @@
 - 🍟  My interests include **backend web dev and UI design**
 
 <h2>Technology I am familiar with </h2>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
+<div style="display:flex">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
+ </div>
 
