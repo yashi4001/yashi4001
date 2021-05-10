@@ -29,5 +29,5 @@
  <br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=yashi4001" atl="yashi4001" />
 <br></br>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yashi4001l&show_icons=true&locale=en&layout=compact" alt="yashi4001" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yashi4001&show_icons=true&locale=en&layout=compact" alt="yashi4001" />
 
