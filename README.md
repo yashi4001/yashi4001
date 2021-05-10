@@ -8,5 +8,5 @@
 - 🍟  My interests include **backend web dev and UI design**
 
 <h2>Technology I am familiar with </h2>
-<img src=https://www.pngix.com/pngfile/middle/685-6854958_react-js-logo-png-transparent-png.png ></img>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" ></img>
 
