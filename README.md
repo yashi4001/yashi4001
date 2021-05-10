@@ -26,5 +26,5 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/yashi_shukla2010_" height="30" width="40" />
   </a>
  </div>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashi4001&show_icons=true&locale=en&layout=compact" alt="yashi4001" /></p>
+![Yashi's github stats](https://github-readme-stats.vercel.app/api?username=yashi4001)
 
