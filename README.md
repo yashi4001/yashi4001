@@ -7,7 +7,7 @@
 
 - 🍟  My interests include **backend web dev and UI design**
 
-<h2>Technology I am familiar with </h2>
+<h2>Technologies I am familiar with 📝</h2>
 <div style="display:flex">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
@@ -15,5 +15,11 @@
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
+ </div>
+ 
+ <h2>Connect with me on: </h2>
+ <div style="display:flex">
+    <img src="https://www.freepik.com/free-icon/linkedin-logo_779994.htm"><a href="https://www.linkedin.com/in/yashi-shukla-a4b81a1a9/ /></img>
+     <img src="https://www.pngrepo.com/png/314107/180/hackerrank.png"><a href="https://www.hackerrank.com/yashi_shukla2010 /></img>
  </div>
 
