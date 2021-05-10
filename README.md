@@ -19,7 +19,7 @@
  
  <h2>Connect with me on: </h2>
  <div style="display:flex">
-    <img src="https://www.freepik.com/free-icon/linkedin-logo_779994.htm"><a href="https://www.linkedin.com/in/yashi-shukla-a4b81a1a9/ /></img>
-     <img src="https://www.pngrepo.com/png/314107/180/hackerrank.png"><a href="https://www.hackerrank.com/yashi_shukla2010 /></img>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"><a href="https://www.linkedin.com/in/yashi-shukla-a4b81a1a9/ /></img>
+     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"><a href="https://www.hackerrank.com/yashi_shukla2010 /></img>
  </div>
 
