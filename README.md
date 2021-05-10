@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Yashi Shukla</h1>
-<h3 align="center">Welcome to my github repo ✨</h3>
+<h2 align="center">Welcome to my github repo ✨</h2>
 
 - ❄️ I’m a computer science student in VIT Vellore 
 
