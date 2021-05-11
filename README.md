@@ -15,6 +15,7 @@
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
  </div>
  
  <h2>Connect with me on: </h2>
