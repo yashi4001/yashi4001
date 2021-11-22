@@ -5,7 +5,7 @@
 
 - 📫 You can contact me at **yashi.shukla2010@gmail.com**
 
-- 🍟  My interests include **backend web dev and UI design, currently learning django!**
+- 🍟  My interests include **backend web dev and UI design, currently learning Ethereum programming!**
 
 <h2>Technologies I am familiar with 📝</h2>
 <div style="display:flex">
@@ -16,6 +16,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
  </div>
  
  <h2>Connect with me on: </h2>
