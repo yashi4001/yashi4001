@@ -5,7 +5,7 @@
 
 - 📫 You can contact me at **yashi.shukla2010@gmail.com**
 
-- 🍟  My interests include **backend web dev and UI design, currently learning Ethereum programming!**
+- 🍟  My interests include **backend web dev and Graphic Design, currently learning Ethereum programming!**
 
 <h2>Technologies I am familiar with 📝</h2>
 <div style="display:flex">
